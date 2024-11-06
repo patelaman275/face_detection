@@ -3,6 +3,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import subprocess
 
+
 def start_face_recognition():
     """
     Function to start the face recognition script.
